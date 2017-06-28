@@ -4,8 +4,9 @@ Here are collected implemented by me different algorithms for numerical methods 
 2) SOLVING EQUATIONS WITH ONE UNKNOWN:
    * Method of Successive Approximations 
    * Newton-Raphson method
-
-3)
+3) SYSTEM OF LINEAR EQUATIONS SOLVING:
+   * Iterative method
+   * Gaussian elimination
 4)
 5)
 6)
