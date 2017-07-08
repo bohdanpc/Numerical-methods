@@ -10,6 +10,7 @@ Here are collected implemented by me different algorithms for numerical methods 
    * Gaussian elimination
 4) NUMERICAL INTEGRATION:
    * by Composite Simpson's rule
+
    _Note_: Just as an example was used integrand x*((2 * cos(x / 2)) - x / 2 * sin(x / 2)) ;
    You are free to calculate whatever integrand you'd like to just replacing default integrand and corresponding origin
    with your values; 
