@@ -11,8 +11,7 @@ Here are collected implemented by me different algorithms for numerical methods 
 4) NUMERICAL INTEGRATION:
    * by Composite Simpson's rule
 
-   # Note:
-   _Just as an example was used integrand x*((2 * cos(x / 2)) - x / 2 * sin(x / 2)) ;
+   *Note*: _Just as an example was used integrand x*((2 * cos(x / 2)) - x / 2 * sin(x / 2)) ;
    You are free to add whatever integrand you'd like to calculate just replacing default integrand and corresponding origin
    with your values;_
 5)
